@@ -26,6 +26,7 @@ This project implements a secure access control system using **Arduino**, a **4x
 2. Upload the code to the Arduino board.
 3. Use the Bluetooth module to receive the dynamic PIN when needed.
 ## Block Diagram
-![image](https://github.com/user-attachments/assets/49a7d32a-af5e-42b4-93f4-fc66c315cde2)
+![diagram-export-11-05-2025-01_22_54](https://github.com/user-attachments/assets/eb077d92-1b4d-4be6-bae1-928d479562a8)
+
 
 
